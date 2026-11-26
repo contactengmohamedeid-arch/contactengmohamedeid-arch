@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mohamed Ahmed Eid
 
-<!--
-**contactengmohamedeid-arch/contactengmohamedeid-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer and Communications Engineering student at El Shorouk Academy, Cairo, working on AI and machine learning: large language models, RAG applications, and computer vision.
 
-Here are some ideas to get you started:
+## What I work with
+Python, PyTorch, Keras, scikit-learn / XGBoost, OpenCV, YOLOv8, Hugging Face, Groq API, Streamlit, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **My-projects**: 15 AI/ML projects with individual READMEs: LLMs and NLP (bilingual Arabic/English GPT from scratch, T5 summarization, AI resume screener), computer vision (YOLOv8 virtual security camera, pose estimation), and classic ML (customer churn prediction, movie recommender)
+- **GPT**: character-level GPT in PyTorch, built following Andrej Karpathy's Zero to Hero lesson
+- **GPT-Tokenizer**: byte-pair-encoding tokenizers in Python following Karpathy's tokenizer lesson, reproducing GPT-4's cl100k_base
+
+## Contact
+- Email: contact.eng.mohamed.eid@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohamed-ahmed-70186a376
+- Open to AI/ML internships, remote or in Egypt
